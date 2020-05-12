@@ -9,7 +9,7 @@ name: Kush Desai
 description: Computer Engineering student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/headshot.jpg
+avatar: /images/headshot.jpg
 
 #
 # Flags below are optional
