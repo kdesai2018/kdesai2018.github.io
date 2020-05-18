@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog/personal website! Click [here](https://www.dropbox.com/s/x2dhs9yvo37hfc5/desai.kush.resume.pdf?dl=0) to check out my most recent resume.
+Welcome to my blog/personal website! Click [here](static/resume.pdf) to check out my most recent resume.
 
 <!-- ### More Information
 
