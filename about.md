@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog/personal website! Feel free to reach out to me using the methods in the footer :smile:
+Welcome to my blog/personal website! Feel free to reach out to me using the methods in the footer.
 
 <!-- Click [here](static/resume.pdf) to check out my most recent resume and see my contact information. -->
 
