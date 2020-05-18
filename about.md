@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[kushkdesai@utexas.edu](mailto:kushkdesai@utexas.edu)
+[firstname] + k + [lastname] at utexas [dot] edu
