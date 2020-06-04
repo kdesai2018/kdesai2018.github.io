@@ -3,7 +3,7 @@ layout: post
 title: Current Tasks
 ---
 
-## lab
+## SIM Lab work
 
 I just hopped off a call with my supervising PhD student. We discussed the current workflow in the lab with everyone working remote, and then jumped right into my tasks for the next few weeks.
 
@@ -15,6 +15,6 @@ Now, my task is to fine-tune a pre-trained model to recognize new shapes. I star
 
 The goal for this task is to collect a novel dataset of shapes from the video and fine-tune a model using this data. Naturally, this runs the risk of overfitting the model on our dataset, since every video in the test set is similar to the train set. However, for this small dataset, we believe that the model will still perform to an acceptable margin of error.
 
-## personal
+## Personal
 
 I (re) started Infinite Jest by David Foster Wallace. I also read a really interesting [article](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) on Medium about the benefits of nothingness, which is a timely read.
