@@ -1,6 +1,6 @@
 ---
 layout: post
-title: current tasks
+title: Current Tasks
 ---
 
 ## lab
