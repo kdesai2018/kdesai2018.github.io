@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<!-- Welcome to my blog/personal website! Feel free to reach out to me using the methods in the footer. -->
+Welcome to my blog/personal website! Feel free to reach out to me using the methods in the footer.
 
 <object data="{{ site.baseurl }}/static/resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="{{ site.baseurl }}/static/resume.pdf">
