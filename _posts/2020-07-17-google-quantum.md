@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quantum supremacy using a programmable superconducting processor (by Google IO, in Nature)
+title: Quantum supremacy using a programmable superconducting processor (by Google AI, in Nature)
 ---
 
 I recently attended a talk about Quantum Computing at work, which sparked off a reading spree. I understand about 2% of this paper, so any advice/suggestions are welcome!
