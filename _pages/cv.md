@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For a PDF view, see [this](/files/desai.kush.cv.pdf)
+For a PDF view, see [this](https://kdesai2018.github.io/files/desai.kush.cv.pdf)
 
 {% include base_path %}
 
@@ -47,6 +47,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Extracurriculars
+======
+* Conference Volunteer at AAAI 2021
+* Conference Volunteer at HRI 2021
+* Logistics Director for [Freetail Hackers](http://freetailhackers.com) (2019-2020).
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -59,9 +66,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-
-Extracurriculars
-======
-* Conference Volunteer at AAAI 2021
-* Conference Volunteer at HRI 2021
-* Logistics Director for [Freetail Hackers](http://freetailhackers.com) (2019-2020).
