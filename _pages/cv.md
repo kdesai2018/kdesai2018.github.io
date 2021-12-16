@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For most recent PDF view, see [this](kdesai2018.github.io/files/desai.kush.cv.pdf)
+For a PDF view, see [this](/files/desai.kush.cv.pdf)
 
 {% include base_path %}
 
@@ -59,6 +59,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
+
 Extracurriculars
 ======
 * Conference Volunteer at AAAI 2021

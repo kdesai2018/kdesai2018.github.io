@@ -1,5 +1,5 @@
 ---
-title: 'Recommendation'
+title: 'Recommendations'
 date: 2020-06-24
 permalink: /posts/2020/06/24/recommendations
 tags:
