@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For a PDF view, see [this](https://kdesai2018.github.io/files/desai.kush.cv.pdf)
+For a PDF view, see [this](https://kushkdesai.com/files/desai.kush.cv.pdf)
 
 {% include base_path %}
 
