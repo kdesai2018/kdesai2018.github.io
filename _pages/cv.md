@@ -13,7 +13,7 @@ For a PDF view, see [this](https://kushkdesai.com/files/desai.kush.cv.pdf)
 
 Education
 ======
-* B.S. in Computer Engineering (Data Science and Information Processing), University of Texas at Austin (May 2022)
+* B.S. in Computer Engineering (Data Science and Information Processing), University of Texas at Austin (Graduating May 2022)
 
 Undergraduate Courses: Operating Systems, Algorithms, Probability, Linear Algebra, Software Implementation and Design (Honors), Data Science Principles, Digital Image Processing, Digital Signal Processing
 
@@ -21,18 +21,18 @@ Graduate courses: Cybersecurity Law and Policy, Neural Computation, Digital Vide
 
 Work experience
 ======
-* Diligent Robotics (Feb 2021 - Present)
+* [Diligent Robotics](http://diligentrobots.com) (Feb 2021 - Present)
   * Using Python and ROS to build new features for Moxi, a socially‐aware humanoid robot
 
-* Facebook (Summer 2021)
+* [Facebook](meta.com) (Summer 2021)
   * Using Rust and Buck to build an end-to-end load testing system for Facebook Live infrastructure that can handle large scale traffic at high QPS
   * Used Scuba, ODS and Unidash to build a comprehensive monitoring system with detailed real-time visualization
 
-* Socially Intelligent machines Lab (Sept 2018 - Present)
+* [Socially Intelligent Machines Lab](http://sim.ece.utexas.edu) (Sept 2018 - Present)
   * Researching audio-augmented Imitation Learning and implemented object recognition algorithms under Dr. Andrea Thomaz
   * Conducted Learning from Demonstration robotics experiments using Python, TensorFlow, ROS, AWS, Mechanical Turk and Javascript
 
-* bp (Summer 2020)
+* [bp](bp.com) (Summer 2020)
   * Designed an optimal routing algorithm for shipping to minimize carbon emissions by 30%
   * Built a web interface hosted on Azure using Python, Flask and SQL while working in an Agile environment
 
