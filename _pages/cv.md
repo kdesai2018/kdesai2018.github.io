@@ -24,7 +24,7 @@ Work experience
 * [Diligent Robotics](http://diligentrobots.com) (Feb 2021 - Present)
   * Using Python and ROS to build new features for Moxi, a socially‐aware humanoid robot
 
-* [Facebook](meta.com) (Summer 2021)
+* [Facebook](https://meta.com) (Summer 2021)
   * Using Rust and Buck to build an end-to-end load testing system for Facebook Live infrastructure that can handle large scale traffic at high QPS
   * Used Scuba, ODS and Unidash to build a comprehensive monitoring system with detailed real-time visualization
 
@@ -32,7 +32,7 @@ Work experience
   * Researching audio-augmented Imitation Learning and implemented object recognition algorithms under Dr. Andrea Thomaz
   * Conducted Learning from Demonstration robotics experiments using Python, TensorFlow, ROS, AWS, Mechanical Turk and Javascript
 
-* [bp](bp.com) (Summer 2020)
+* [bp](https://bp.com) (Summer 2020)
   * Designed an optimal routing algorithm for shipping to minimize carbon emissions by 30%
   * Built a web interface hosted on Azure using Python, Flask and SQL while working in an Agile environment
 
