@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-For a PDF view, see [this](https://kushkdesai.com/files/desai.kush.cv.pdf)
+<!-- For a PDF view, see [this](https://kushkdesai.com/files/desai.kush.cv.pdf) -->
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Computer Engineering (Data Science and Information Processing), University of Texas at Austin (Graduating May 2022)
+* B.S. in Computer Engineering (Data Science and Information Processing), University of Texas at Austin (May 2022)
 
 Undergraduate Courses: Operating Systems, Algorithms, Probability, Linear Algebra, Software Implementation and Design (Honors), Data Science Principles, Digital Image Processing, Digital Signal Processing
 
@@ -21,14 +21,17 @@ Graduate courses: Cybersecurity Law and Policy, Neural Computation, Digital Vide
 
 Work experience
 ======
-* [Diligent Robotics](http://diligentrobots.com) (Feb 2021 - Present)
+* [Meta](https://meta.com) (July 2022)
+  * TBD
+
+* [Diligent Robotics](http://diligentrobots.com) (Feb 2021 - April 2021)
   * Using Python and ROS to build new features for Moxi, a socially‐aware humanoid robot
 
 * [Facebook](https://meta.com) (Summer 2021)
   * Using Rust and Buck to build an end-to-end load testing system for Facebook Live infrastructure that can handle large scale traffic at high QPS
   * Used Scuba, ODS and Unidash to build a comprehensive monitoring system with detailed real-time visualization
 
-* [Socially Intelligent Machines Lab](http://sim.ece.utexas.edu) (Sept 2018 - Present)
+* [Socially Intelligent Machines Lab](http://sim.ece.utexas.edu) (Sept 2018 - April 2022)
   * Researching audio-augmented Imitation Learning and implemented object recognition algorithms under Dr. Andrea Thomaz
   * Conducted Learning from Demonstration robotics experiments using Python, TensorFlow, ROS, AWS, Mechanical Turk and Javascript
 

@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kush, a senior at the [University of Texas at Austin](utexas.edu). I'll be graduating in May 2022 with a Bachelors of Science in Computer Engineering, specializing in Data Science and Information Processing. I've worked as an Undergraduate Research Assistant at the [Socially Intelligent Machines Lab](https://sim.ece.utexas.edu/people.html) with [Professor Andrea Thomaz](https://www.ece.utexas.edu/people/faculty/andrea-thomaz). 
+Hi! I'm Kush. I graduated from the [University of Texas at Austin](utexas.edu) May 2022 with a Bachelors of Science in Computer Engineering, specializing in Data Science and Information Processing. Over my time at UT, I've worked as an Undergraduate Research Assistant at the [Socially Intelligent Machines Lab](https://sim.ece.utexas.edu/people.html) with [Professor Andrea Thomaz](https://www.ece.utexas.edu/people/faculty/andrea-thomaz), was apart of the [Punjabbawockeez](https://www.instagram.com/punjabbawockeez/) and helped organize HackTX with [Freetail Hackers](http://freetailhackers.com)
 
-I'm currently applying to PhD programs with the goal of furthering human robot collaboration. I've developed this interest through my research collaboration with [Akanksha Saran](https://www.linkedin.com/in/akanksha-saran) as well as my internship experience at [Diligent Robotics](http://diligentrobots.com). I am also a co-host of the [Talking Robotics](http://talking-robotics.github.io) seminar series.
+I'm starting my new role as a Production Engineer at Meta in July 2022 in Menlo Park. I also volunteer as the co-host of the [Talking Robotics](http://talking-robotics.github.io) seminar series.
 
-Outside of work and school, I enjoy reading science fiction, nerding out about the [MCU](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) and playing amateur-level chess.
+Outside of work, I enjoy reading science fiction. I'm currently working my way through the [Hyperion Cantos] by Dan Simmons. I am also reading **The Emperor's New Mind** by Roger Penrose. 
