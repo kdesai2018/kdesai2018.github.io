@@ -22,7 +22,7 @@ Graduate courses: Cybersecurity Law and Policy, Neural Computation, Digital Vide
 Work experience
 ======
 * [Meta](https://meta.com) (July 2022)
-  * TBD
+  * On the PE Metaverse team
 
 * [Diligent Robotics](http://diligentrobots.com) (Feb 2021 - April 2021)
   * Using Python and ROS to build new features for Moxi, a socially‐aware humanoid robot
