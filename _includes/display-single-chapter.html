@@ -1,0 +1,8 @@
+<div class="{{ include.type | default: "list" }}__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if post.date %} {{post.date | date: "%-d %B %Y" }} <br> {% endif %} 
+        {% if post.title %} <strong>{{post.title}} </strong> <br>{% endif %}
+        {% if post.link %} <a href="{{post.link}}">Details</a> <br>{% endif %}
+        <br>
+    </article>
+</div>
