@@ -10,6 +10,6 @@ tags:
 Currently reading The Emperor's New Mind by Roger Penrose, going to summarize my thoughts here.
 
 
-{% for post in site.talks %} 
+{% for post in site.tenm %} 
   {% include display-single-chapter.html %}
 {% endfor %}
