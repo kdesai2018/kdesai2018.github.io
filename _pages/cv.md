@@ -54,7 +54,7 @@ Extracurriculars
 ======
 * Conference Volunteer at AAAI 2021
 * Conference Volunteer at HRI 2021
-* Logistics Director for [Freetail Hackers](http://freetailhackers.com) (2019-2020).
+* Logistics Director for [Freetail Hackers](http://freetailhackers.com) (2019-2021). We organized [HackTX](https://hacktx.com/) and published a "How-to" guide for aspiring hackathon attendees [here](https://github.com/kdesai2018/ultimate-hackathon-starting-guide).
 
 
 <!-- Talks
