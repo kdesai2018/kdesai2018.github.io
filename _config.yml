@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kush Desai's Webpage"
 title_separator          : "-"
 name                     : &name "Kush Desai"
-description              : &description "senior at UT Austin"
+description              : &description "Production Engineer at meta"
 url                      : https://kushkdesai.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kdesai2018/kdesai2018.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=ZIzdbbkAAAAJ&hl=en
-  email            : "kushkdesai@utexas.edu"
+  email            : "kushkdesai@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : #"https://orcid.org/0009-0006-6980-0665"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

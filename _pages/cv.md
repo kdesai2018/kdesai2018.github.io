@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For a PDF view, see [here](https://kushkdesai.com/files/desai.kush.cv.pdf)
+<!-- For a PDF view, see [here](https://kushkdesai.com/files/desai.kush.cv.pdf) -->
 
 {% include base_path %}
 
@@ -21,21 +21,21 @@ Graduate courses: Cybersecurity Law and Policy, Neural Computation, Digital Vide
 
 Work experience
 ======
-* [Meta](https://meta.com) (July 2022)
-  * On the PE Metaverse team
+* Production Engineer at [Meta](https://meta.com) (July 2022 - Present)
+  * On the PE Metaverse team. High level overview [here](https://engineering.fb.com/2022/06/09/web/cloud-gaming-infrastructure/)
 
-* [Diligent Robotics](http://diligentrobots.com) (Feb 2020 - April 2021)
+* Software Engineer at [Diligent Robotics](http://diligentrobots.com) (Feb 2020 - April 2021)
   * Using Python and ROS to build new features for Moxi, a socially‐aware humanoid robot
 
-* [Facebook](https://meta.com) (Summer 2021)
-  * Using Rust and Buck to build an end-to-end load testing system for Facebook Live infrastructure that can handle large scale traffic at high QPS
+* Production Engineering intern at [Facebook](https://meta.com) (Summer 2021)
+  * Built an end-to-end load testing system for Facebook Live infrastructure that can handle large scale traffic at high QPS in Rust
   * Used Scuba, ODS and Unidash to build a comprehensive monitoring system with detailed real-time visualization
 
-* [Socially Intelligent Machines Lab](http://sim.ece.utexas.edu) (Sept 2018 - April 2022)
-  * Researching audio-augmented Imitation Learning and implemented object recognition algorithms under Dr. Andrea Thomaz
+* Research Assistant at the [Socially Intelligent Machines Lab](http://sim.ece.utexas.edu) (Sept 2018 - April 2022)
+  * Researched audio-augmented Imitation Learning and implemented object recognition algorithms under Dr. Andrea Thomaz. See [publications](https://kushkdesai.com/publications/)
   * Conducted Learning from Demonstration robotics experiments using Python, TensorFlow, ROS, AWS, Mechanical Turk and Javascript
 
-* [bp](https://bp.com) (Summer 2020)
+* Platform Engineering intern [bp](https://bp.com) (Summer 2020)
   * Designed an optimal routing algorithm for shipping to minimize carbon emissions by 30%
   * Built a web interface hosted on Azure using Python, Flask and SQL while working in an Agile environment
 
