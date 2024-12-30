@@ -2,7 +2,7 @@
 title: "Leveraging Prosody as an Informative Teaching Signal for Agent Learning: Exploratory Studies and Algorithmic Implications"
 collection: publications
 permalink: /publication/2024-04-25-prosody-icmi
-excerpt: 'ICMI 2024'
+excerpt: 'Paper accepted to ICMI 2024'
 date: 2024-04-25
 venue: 'ICMI 2024'
 paperurl: ''
