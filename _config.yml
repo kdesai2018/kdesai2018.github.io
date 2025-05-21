@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kush Desai's Webpage"
 title_separator          : "-"
 name                     : &name "Kush Desai"
-description              : &description "Production Engineer at meta"
+description              : &description "Softwar Engineer at meta"
 url                      : https://kushkdesai.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kdesai2018/kdesai2018.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kush Desai"
   avatar           : "profile.jpg"
-  bio              : "production engineer at Meta"
+  bio              : "software engineer at Meta"
   location         : 
   employer         :
   pubmed           : 

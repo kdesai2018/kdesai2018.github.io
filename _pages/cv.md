@@ -21,8 +21,8 @@ Graduate courses: Cybersecurity Law and Policy, Neural Computation, Digital Vide
 
 Work experience
 ======
-* Production Engineer at [Meta](https://meta.com) (July 2022 - Present)
-  * On the PE Metaverse team. High level overview [here](https://engineering.fb.com/2022/06/09/web/cloud-gaming-infrastructure/)
+* Software Engineer at [Meta](https://meta.com) (July 2022 - Present)
+  * Experience working across teams in Reality Labs and Core Infrastructure
 
 * Software Engineer at [Diligent Robotics](http://diligentrobots.com) (Feb 2020 - April 2021)
   * Using Python and ROS to build new features for Moxi, a socially‐aware humanoid robot
