@@ -30,6 +30,15 @@ nav a {
   text-decoration: none;
 }
 
+.headshot {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin: 1rem auto;
+  float: left;
+}
+
 main {
   padding: 2rem;
   max-width: 800px;
